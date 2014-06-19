@@ -2,7 +2,7 @@ DESCRIPTION
 This project extends the Google Image Search that we built in class to allow a user to modify advanced search options and result pagination.  Full features are listed below.
 
 LiceCap GIF is here
-https://www.dropbox.com/s/vg8aqwyqzka8vf4/GridImageSearch_LiceCap.gif
+https://www.dropbox.com/s/vg8aqwyqzka8vf4/GridImageSearch_LiceCap.gif <br>
 You may need to download the file first and then play in browser (~32MB)
 
 Thank you for taking a look.
