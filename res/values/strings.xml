@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Grid Image Search!</string>
+    <string name="title_activity_image_display">Full Size Image!</string>
+    <string name="query_hint">Enter Search Term</string>
+    <string name="title_activity_search_options">SearchOptions</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="imgSize_prompt">PROMPT?</string>
+
+</resources>
