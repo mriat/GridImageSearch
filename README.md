@@ -3,6 +3,7 @@ This project extends the Google Image Search that we built in class to allow a u
 
 LiceCap GIF is here
 https://www.dropbox.com/s/vg8aqwyqzka8vf4/GridImageSearch_LiceCap.gif
+You may need to download the file first and then play in browser (~32MB)
 
 Thank you for taking a look.
 
@@ -17,7 +18,7 @@ B) All required stories are complete
 3. User can configure advanced search filters
 4. Subsequent searches will have any filters applied to the search results
 5. User can tap on any image in results to see the image full-screen
-6. User can scroll down “infinitely” to continue loading more image results (up to 8 pages)
+6. User can scroll down "infinitely" to continue loading more image results (up to 8 pages)
 
 C) The following bonus stories are complete
 Bonus: User can zoom or pan images displayed in full-screen detail view
@@ -36,6 +37,6 @@ Programmed and written entirely by mriat
 
 ACKNOWLEDGEMENTS
 
-(Library) Android Async HTTP Client
-(Library) Android Smart Image View
-(Library) Picasso: A powerful image downloading and caching library for Android
+1. (Library) Android Async HTTP Client
+2. (Library) Android Smart Image View
+3. (Library) Picasso: A powerful image downloading and caching library for Android
